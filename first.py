@@ -18,11 +18,24 @@
 # سه متغیر نیاز دارید
 # arman has 12 years old and his height is 167 cm.
 
+# name = input("enter a name: ")
+# height = float(input("enter your height: "))
+# age = int(input("enter your age: "))
+
+# message = name + " has " + str(age) + " years old and his height is " + str(height) + " cm."
+# print(message)
+
+# message = f"{name} has {age} years old and his height is {height} cm."
+# print(message)
 
 # name = "arshin"
 # print(name[0])
 
 # TODO   برنامه ای بنویسید که نام کاربر را از ووردی دریافت نماید و کاراکترهای آن را جداجدا پرینت نماید.
+
+
+
+
 
 # numbers = [1,22,0,4,84]
 # print(numbers[0])
@@ -34,7 +47,7 @@
 # print(numbers[:3])
 # print(numbers[3:6])
 
-fruits = ["apple", "bannana","watermelon","melon"]
-print(fruits[:2])
-print(fruits[1:3])
-print(fruits[2:])
+# fruits = ["apple", "bannana","watermelon","melon"]
+# print(fruits[:2])
+# print(fruits[1:3])
+# print(fruits[2:])
