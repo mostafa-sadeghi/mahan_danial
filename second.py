@@ -79,11 +79,79 @@ b = 3
 # else:
 #     print("others")
 
-# TODO  
+# TODO
 # برنامه ای بنویسید که سه عدد از ورودی دریافت نماید و اگر هر یک از اعداد از پنج بزرگتر بودند به
 # لیستی اضافه نماید
 # در انتها لیست را پرینت نمائید
 
+# numbers = []
+# number1 = float(input("Enter a number: "))
+# number2 = float(input("Enter a number: "))
+# number3 = float(input("Enter a number: "))
+
+
+# if number1 > 5:
+#     numbers.append(number1)
+
+# if number2 > 5:
+#     numbers.append(number2)
+
+# if number3 > 5:
+#     numbers.append(number3)
+
+# print("numbers:", numbers)
+
 
 # TODO  برنامه ای بنویسید که اعداد لیست زیر را با هم جمع نماید
-numbers = [1,2,7,0,-1,12]
+# numbers = [1, 2, 7, 0, -1, 12]
+
+# result = numbers[0] + numbers[1] + numbers[2] + \
+#     numbers[3] + numbers[4] + numbers[5]
+# print("result:", result)
+
+# result = sum(numbers)
+# print("result:", result)
+
+# numbers = []
+# number1 = float(input("Enter a number: "))
+# number2 = float(input("Enter a number: "))
+# number3 = float(input("Enter a number: "))
+
+# numbers.append(number1)
+# numbers.append(number2)
+# numbers.append(number3)
+
+# print("sum is :", sum(numbers))
+
+
+# names = ["artin", "sara", "armin"]
+
+# name = input("enter a name: ")
+# names.remove(name)
+
+# print("names:", names)
+
+
+# number = int(input("enter an index: "))
+# del names[number]
+
+# print("names:", names)
+
+
+# TODO    برنامه ای بنویسید که اسامی موجود در لیست زیر را کنار هم با فاصله نمایش دهد
+
+# names = ["reza", "sara","artin"]
+# reza sara artin
+# print(names)
+
+# print("hi", end=" ")
+# print("welcome")
+
+
+# string1 = "hello"
+# string2 = " what's up?"
+# print(string1 + string2)
+
+list1 = [1, 2, 3]
+list2 = [3, 4, 5]
+print(list1 + list2)
