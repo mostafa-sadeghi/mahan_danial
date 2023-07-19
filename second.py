@@ -152,6 +152,6 @@ b = 3
 # string2 = " what's up?"
 # print(string1 + string2)
 
-list1 = [1, 2, 3]
-list2 = [3, 4, 5]
-print(list1 + list2)
+# list1 = [1, 2, 3]
+# list2 = [3, 4, 5]
+# print(list1 + list2)
