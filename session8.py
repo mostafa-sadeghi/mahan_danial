@@ -1,11 +1,11 @@
-for i in range(5):
-    print("hello")
+# for i in range(5):
+#     print("hello")
 
 
-i = 0
-while i < 5:
-    print("hello")
-    i += 1
+# i = 0
+# while i < 5:
+#     print("hello")
+#     i += 1
 
 
 """
@@ -18,3 +18,11 @@ while i < 5:
 
 
 """
+# import turtle
+# t = turtle.Turtle()
+# for i in range(8):
+#     t.forward(100)
+#     t.left(360/8)
+
+
+# turtle.done()
